@@ -1,0 +1,37 @@
+{
+  "blocks": [
+    {
+      "blockHash": 14451046936077230343,
+      "data": {
+        "amount": 0.0,
+        "receiver-key": "None",
+        "sender-key": "None",
+        "timestamp": 1673463259
+      },
+      "index": 0,
+      "previousHash": 0
+    },
+    {
+      "blockHash": 3062678267197375068,
+      "data": {
+        "amount": 1000,
+        "receiver-key": "Joe",
+        "sender-key": "Steve",
+        "timestamp": 1673463259
+      },
+      "index": 1,
+      "previousHash": 14451046936077230343
+    },
+    {
+      "blockHash": 15853498175832016864,
+      "data": {
+        "amount": 4.0,
+        "receiver-key": "Susan",
+        "sender-key": "Matt",
+        "timestamp": 1673464458
+      },
+      "index": 2,
+      "previousHash": 3062678267197375068
+    }
+  ]
+}

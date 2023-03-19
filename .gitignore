@@ -1,0 +1,5 @@
+.idea/
+.DS_Store
+build
+test/data/out/*
+conan_src

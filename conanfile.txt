@@ -1,0 +1,9 @@
+[requires]
+  catch2/2.13.6
+  fakeit/2.0.9
+  cli11/2.1.1
+  nlohmann_json/3.9.1
+  spdlog/1.11.0
+
+[generators]
+  cmake
