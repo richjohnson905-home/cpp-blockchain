@@ -4,8 +4,7 @@
             "name": "Linux",
             "includePath": [
                 "${workspaceFolder}/**",
-                "/home/rich/.conan/data/**",
-                "/home/rich/.conan/data/spdlog/1.11.0/_/_/package/ca4b0324b4e1dad94b69153110662cd1b5215f2c/include"
+                "/home/rich/.conan/data/**"
             ],
             "defines": [],
             "compilerPath": "/usr/bin/gcc",
